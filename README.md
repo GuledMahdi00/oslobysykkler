@@ -8,7 +8,7 @@ Koden består av en backend som bruker det fleksible og simple programmeringsspr
 1. Installer python version 3.11
 2. Installer modulet "requests" med pip3 (pip3 install requests)
 3. Installer modulet "Flask" med pip3 (pip3 install Flask)
-4. I Prosjekt mappen kjør python filen "app.py" (python3 app.py)
+4. I Prosjekt mappen kjør python filen "app.py" (python3 -m flask --app app.py run)
 5. Applikasjonen bør nå kjøre og informasjonen relatert kravene er tilgjengelig gjennom en tabell på nettsiden http://localhost:5000/
 
 ## Sluttbruker
